@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subasplumer.com/sitemap.xml
